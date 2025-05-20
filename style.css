@@ -53,7 +53,7 @@ section#main h1 {
 
 div#container-guests {
     width: 80vw;
-    display: flex;
+    display: none;
     justify-content: center;
     align-content: center;
     align-items: center;
