@@ -166,4 +166,5 @@ div.grade b {
 div.grade p {
     white-space: pre-line;
     width: 100%;
+    padding-left: 4px;
 }
