@@ -133,3 +133,37 @@ div.card b, div.card p {
 }
 
 div.card b { margin-top: 1rem; }
+
+
+div.sub-container-cards {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-content: start;
+    align-items: start;
+    flex-wrap: wrap;
+    padding: 4px;
+    margin-top: 2rem;
+}
+
+div.grade {
+    width: 300px;
+    padding: 4px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 0 1rem;
+    margin-top: 2rem;
+}
+
+div.grade b {
+    width: 100%;
+    text-align: center;
+    font-size: 14pt;
+    padding: 4px;
+}
+
+div.grade p {
+    white-space: pre-line;
+    width: 100%;
+}
